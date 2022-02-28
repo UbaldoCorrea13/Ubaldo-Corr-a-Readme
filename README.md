@@ -53,15 +53,13 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/ubaldo-corrêa-928441209" target="_blank">
-  <img align="center" src="https://https:///-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 <a href="https://instagram.com/ubaldocorrea_" target="_blank">
- <img align="center" src="https://https:///-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://https://img.shields.io/badge/-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://facebook.com//ubaldo.correa.10" target="_blank">
- <img align="center" src="https://https:///-UbaldoCorrea13-05122A?style=flat&logo=facebook" alt="facebook"/>
+ <img align="center" src="https://https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p>
 
