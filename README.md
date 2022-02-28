@@ -32,7 +32,7 @@
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python--05122A?style=flat&logo=python)&nbsp;)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -52,14 +52,11 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/UbaldoCorrea13" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/ubaldo" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/ubaldocorrea_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://facebook.com//ubaldo.correa.10" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=youtube" alt="facebook"/>
