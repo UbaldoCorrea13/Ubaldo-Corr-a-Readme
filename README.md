@@ -55,6 +55,8 @@
 <a href="https://linkedin.com/in/ubaldo-corrêa-928441209" target="_blank">
   <img align="center" src="https://https:///-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 <a href="https://instagram.com/ubaldocorrea_" target="_blank">
  <img align="center" src="https://https:///-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
@@ -67,8 +69,6 @@
 
 
 **UbaldoCorrea13/UbaldoCprrea13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
