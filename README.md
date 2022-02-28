@@ -53,19 +53,19 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/ubaldo-corrêa-928441209" target="_blank">
-  <img align="center" src="https://https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png/-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://https:///-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/ubaldocorrea_" target="_blank">
- <img align="center" src="https://https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png/-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://https:///-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://facebook.com//ubaldo.correa.10" target="_blank">
- <img align="center" src="https://https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png/-UbaldoCorrea13-05122A?style=flat&logo=youtube" alt="facebook"/>
+ <img align="center" src="https://https:///-UbaldoCorrea13-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p>
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=UbaldoCorrea13&layout=wide&show_reply=off&show_retweet=off" />
 
-<!--
+
 **UbaldoCorrea13/UbaldoCprrea13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
