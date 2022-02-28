@@ -1,11 +1,10 @@
 # UbaldoCorrea13-Readme
-# UbaldoCorrea13-Readme
 
 <img align="right" height="590em" src="image1"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ubaldo Corrêa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UbaldoCorrea13&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming
+- 🔥 Frot-End Developer
 
 - 🔭I'm currently looking for my first job.
 
