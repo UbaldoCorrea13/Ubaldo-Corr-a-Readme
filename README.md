@@ -52,14 +52,14 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/ubaldo-corrêa-928441209" target="_blank">
+  <img align="center" src="https://https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png/-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/ubaldocorrea_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png/-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://facebook.com//ubaldo.correa.10" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=youtube" alt="facebook"/>
+ <img align="center" src="https://https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png/-UbaldoCorrea13-05122A?style=flat&logo=youtube" alt="facebook"/>
 </a>
 </p>
 
