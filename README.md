@@ -51,14 +51,14 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/UbaldoCorrea13" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/ubaldo-corrêa-928441209" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Ubaldo Corrêa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/ubaldocorrea_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Ubaldo Corrêa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://facebook.com/ubaldo.correa.10" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ubaldo.correa.10-05122A?style=flat&logo=facebook" alt="facebook"/>  
+  <img align="center" src="https://img.shields.io/badge/-Ubaldo Corrêa-05122A?style=flat&logo=facebook" alt="facebook"/>  
 </a>
 
 </p>
