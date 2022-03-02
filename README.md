@@ -7,13 +7,16 @@
 
 - 🔥 Front-End Developer
 
-- 🔭I'm currently looking for my first job.
+- 🔭 I am currently looking for my first job in the technology field.
+
+- 🌱 I'm currently learning english
+
+- 📚 I'm studying Systems Analysis and Development
 
 - 👨‍💻 All of my projects are available at [UbaldoCorrea13](https://github.com/UbaldoCorrea13)
 
 - 💬 Ask me about **JavaScript, HTML, CSS,**
 
-- ⚡ Fun fact **Oneye 😜**
 
 <br><br>
 
