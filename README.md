@@ -45,14 +45,14 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=UbaldoCorrea13&show_icons=true&theme=vision-friendly-dark" alt="UbaldoCorrea13's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaldoCorrea13&layout=compact&theme=vision-friendly-dark" alt=UbaldoCorrea13's most languages"/>
+<img width="830em" src="https://github-readme-stats.vercel.app/api?username=UbaldoCorrea13&show_icons=true&theme=vision-friendly-dark" alt="UbaldoCorrea13's stats"/>
+<img width="830em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaldoCorrea13&layout=compact&theme=vision-friendly-dark" alt=UbaldoCorrea13's most languages"/>
 </p>
 
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
-<p align="left" style="background:yellow">
+<p align="left" style="background:blue">
 <a href="https://linkedin.com/in/ubaldo-corrêa-928441209" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ubaldo Corrêa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
