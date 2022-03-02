@@ -50,15 +50,29 @@
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/UbaldoCorrea13" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/ubaldocorrea_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://facebook.com/ubaldo.correa.10" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ubaldo.correa.10-05122A?style=flat&logo=facebook" alt="facebook"/>  
+</a>
+
+</p>
+
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/ubaldo-corrêa-928441209" target="_blank">
-  <img align="center" src="https://https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://https://img.shields.io/badge/-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/ubaldocorrea_" target="_blank">
- <img align="center" src="https://https://img.shields.io/badge/-ubaldocorrea_-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://https://img.shields.io/badge/--05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://facebook.com//ubaldo.correa.10" target="_blank">
+<a href="https://facebook.com//" target="_blank">
  <img align="center" src="https://https://img.shields.io/badge/-UbaldoCorrea13-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p>
@@ -67,7 +81,7 @@
 
 
 **UbaldoCorrea13/UbaldoCprrea13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -76,4 +90,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
