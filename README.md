@@ -1,6 +1,6 @@
 # UbaldoCorrea13-Readme
 
-<img align="right" height="590em" src="![image1](https://user-images.githubusercontent.com/92760416/155957788-2143e3a1-1d77-423b-bfa5-01737ba3be53.jpg)
+<img align="right" height="590em" src="(https://user-images.githubusercontent.com/92760416/155957788-2143e3a1-1d77-423b-bfa5-01737ba3be53.jpg)
 "/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ubaldo Corrêa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UbaldoCorrea13&color=yellow" alt="Profile views" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I am currently looking for my first job in the technology field.
 
-- 🌱 I'm currently learning english
+- 🌱 I'm currently learning English
 
 - 📚 I'm studying Systems Analysis and Development
 
