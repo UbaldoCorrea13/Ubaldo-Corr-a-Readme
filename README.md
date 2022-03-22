@@ -1,6 +1,6 @@
 # UbaldoCorrea13-Readme
 
-<img align="right" height="400em" width="350em" src=![Zeta](https://user-images.githubusercontent.com/92760416/159524606-5f76c6dc-dd07-40d4-9fcd-9183cb14ab46.png)
+![Zeta](https://user-images.githubusercontent.com/92760416/159524606-5f76c6dc-dd07-40d4-9fcd-9183cb14ab46.png)
 <h1 align="left">Hi guys<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ubaldo Corrêa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UbaldoCorrea13&color=yellow" alt="Profile views" /> </p>
 
