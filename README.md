@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 <br><br>
 
 ## 🛠 &nbsp;I Intend To Learn
@@ -38,7 +38,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
+
 
 <br><br>
 
