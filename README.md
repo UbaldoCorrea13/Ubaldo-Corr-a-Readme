@@ -33,8 +33,6 @@
 ## 🛠 &nbsp;I Intend To Learn
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactnative)&nbsp;
-
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
